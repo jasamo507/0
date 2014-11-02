@@ -37,3 +37,6 @@ RMEnhancedModel = require('ba783/cb11e/b58aa').extend({
     },
 });
 var RMEnhanced = new RMEnhancedModel();
+
+    "Dj_LOLOLOoo": "/me [%%NAME%%] (Dj_LOLOLOoo) Prije svega je Srcko, lijep i komunikativan decko, ima odlican smisao za humor :D"
+
