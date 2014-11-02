@@ -1,3 +1,4 @@
+{
 API.chatLog("{BALKAN}^Monster Energy^Room Script running :ballot_box_with_check: version 0.023 [060514]", true);
 API.chatLog("http://goo.gl/281bO3 Room Script, http://goo.gl/gS0prk FB Grupa, http://adf.ly/a6btD Plug³, Rules:http://goo.gl/mwoZ4Y ", false);
 function initEnvironment(){
@@ -40,3 +41,4 @@ var RMEnhanced = new RMEnhancedModel();
 
     "Dj_LOLOLOoo": "/me [%%NAME%%] (Dj_LOLOLOoo) Prije svega je Srcko, lijep i komunikativan decko, ima odlican smisao za humor :D"
 
+}
