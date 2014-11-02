@@ -1,4 +1,4 @@
-API.chatLog("{BALKAN}^Monster Energy^Room Script running :ballot_box_with_check: version 0.023 [060514]", true);
+API.chatLog(">{BALKAN}<^Monster Energy^Room Script running :ballot_box_with_check: version 0.023 [060514] Don't copy!!!", true);
 API.chatLog("http://goo.gl/281bO3 Room Script, http://goo.gl/gS0prk FB Grupa, http://adf.ly/a6btD Plug³, Rules:http://goo.gl/mwoZ4Y ", false);
 function initEnvironment(){
        if (plugCubed === undefined) {
